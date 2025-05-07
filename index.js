@@ -84,4 +84,4 @@ function simulateDecksFromRandomCards() {
 }
 
 const completeDecks = simulateDecksFromRandomCards();
-console.log("The number of cards counter is: "+ completeDecks);
+console.log("The number of desks full is: "+ completeDecks);
